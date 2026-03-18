@@ -2,7 +2,7 @@
 
 Premium React-based dashboard for gestioning SMS communications and wallet metrics.
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Install dependencies**: `npm install`
 2. **Setup environment**: Create a `.env` file and add:
@@ -11,7 +11,7 @@ Premium React-based dashboard for gestioning SMS communications and wallet metri
    ```
 3. **Run local development**: `npm run dev`
 
-## 📦 Deployment Requirements (CRITICAL)
+##  Deployment Requirements (CRITICAL)
 
 When deploying to **Vercel**, **Render**, or **Netlify**, you MUST set the following Environment Variable in their web dashboard:
 
